@@ -8,6 +8,7 @@ Built for clarity, onboarding ease, and automation—no account setup required.
 - Automatic quarterly tax estimation (US-based)
 - Protected formulas for clean UX
 - PDF onboarding guide included
+- [Freelance Tax Estimator Screenshot](ScreenshotDashboard.png)
 
 ##  View the Product
  [Live Gumroad Listing](https://crginsight6.gumroad.com/l/freelancetaxestimator)
